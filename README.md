@@ -1,5 +1,7 @@
 # Krittika (Pleiades)
-Distibuted ML Accelerator simulator
+# Siddhesh Durgude
+
+Distributed ML Accelerator simulator
 
 Plans to support
 1. Distributed execution of DNN layers
@@ -13,7 +15,7 @@ You can clone the SCALE-Sim(v2) repository using the following command (ssh)
 
 ```$ git clone git@github.com:scalesim-project/scale-sim-v2.git```
 
-Alternative, you can also clone using https 
+Alternatively, you can also clone using HTTPS 
 
 ```$ git clone https://github.com/scalesim-project/scale-sim-v2.git```
 
